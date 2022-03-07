@@ -1,11 +1,11 @@
 # SimpleICS
-Console application to share internet connection to other network interface
+Internet Connection Sharing (ICS). Console application to share internet connection to other network interface
 
-For this project I'm based in https://www.codeproject.com/Articles/523417/Reflection-with-IDispatch-based-COM-objects
+See https://www.codeproject.com/script/Articles/ArticleVersion.aspx?waid=4260144&aid=5326770 to more information
 
 Commands:
 - -l:                              Get all information for network adapters.
-- -from "\<NetworkAdapterName>":    Name of the source network adapter that will share the connection to the destination.
+- -from "\<NetworkAdapterName>":   Name of the source network adapter that will share the connection to the destination.
 - -to "\<NetworkAdapterName>":     Name of the destination network adapter with which you want to share the source connection.
 - 1:                               Allows you to enable the source connection to the destination.
 - 0:                               Allows you to disable the source connection to the destination.
