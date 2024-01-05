@@ -4,21 +4,21 @@ Internet Connection Sharing (ICS). Console application to share internet connect
 <div align="center">
 <p>
     <a href="https://github.com/gsirettito/SimpleICS/releases" target="_blank">
-      <img alt="All releases" src="https://img.shields.io/github/downloads/gsirettito/NetworkToolBox/total.svg?style=for-the-badge&logo=github" />
+      <img alt="All releases" src="https://img.shields.io/github/downloads/gsirettito/SimpleICS/total.svg?style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/gsirettito/SimpleICS/releases/latest" target="_blank">
-      <img alt="Latest release" src="https://img.shields.io/github/downloads/gsirettito/NetworkToolBox/latest/total.svg?style=for-the-badge&logo=github" />
+      <img alt="Latest release" src="https://img.shields.io/github/downloads/gsirettito/SimpleICS/latest/total.svg?style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/gsirettito/SimpleICS/releases" target="_blank">
-      <img alt="Latest pre-release" src="https://img.shields.io/github/downloads-pre/gsirettito/NetworkToolBox/latest/total.svg?label=downloads%40pre-release&style=for-the-badge&logo=github" />
+      <img alt="Latest pre-release" src="https://img.shields.io/github/downloads-pre/gsirettito/SimpleICS/latest/total.svg?label=downloads%40pre-release&style=for-the-badge&logo=github" />
     </a>
   </p>
   <p>
     <a href="https://github.com/gsirettito/SimpleICS/stargazers" target="_blank">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/gsirettito/NetworkToolBox.svg?style=for-the-badge&logo=github" />
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/gsirettito/SimpleICS?style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/gsirettito/SimpleICS/network" target="_blank">
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/gsirettito/NetworkToolBox.svg?style=for-the-badge&logo=github" />
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/gsirettito/SimpleICS?style=for-the-badge&logo=github" />
     </a>
   </p>
   <p>
